@@ -3,7 +3,7 @@
 ### Dokumenta saturs
 
 #### 1. Spēles apraksts
-Interesentaspēle kas attīsta loģiku.
+Interesenta spēle kas attīsta loģiku.
 #### 2. spēles loģika
 
 Dators nejauši ģenerē vienu skaitli no 1 līdz 100. Tālāk, piedāvā spēlētājam uzminēt to skaitli. Un t.t.
